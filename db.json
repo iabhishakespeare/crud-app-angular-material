@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Abhishek",
+      "lastName": "Rana",
+      "email": "test@gmai.com",
+      "dob": "2023-07-09T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduation",
+      "company": "Coforge Ltd.",
+      "experience": 2,
+      "package": 6,
+      "id": 1
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "dob": "2023-07-11T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduation",
+      "company": "Coforge",
+      "experience": 3,
+      "package": 3,
+      "id": 2
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 3
+    }
+  ]
+}
